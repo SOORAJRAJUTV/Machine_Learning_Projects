@@ -1,4 +1,4 @@
-Model for the prediction of Diabetes in Women.
-Model - Support Vector Classifier
-Accuracy - training_data- 82% 
-           test_data-81%
+Model for the prediction of Rock and Mine.
+Model - Logistic Regression
+Accuracy - training_data- 83% 
+           test_data-76%
