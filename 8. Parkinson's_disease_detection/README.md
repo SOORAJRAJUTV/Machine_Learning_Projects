@@ -1,4 +1,4 @@
-A model for the detection of Parkinson's disease detection.
+A model for the detection of Parkinson's disease.
 
 Model used - Support Vector Machine
 
