@@ -1,4 +1,4 @@
-A model for the detction of Spam mails.
+A model for the detection of Spam mails.
 
 Model used - Logistic Regression(Best for binary classification problem)
 
